@@ -1,0 +1,10 @@
+>_
+O que é Git?
+É um software de controle de versões que registra as alterações realizadas em um
+arquivo ou conjunto de arquivos ao longo do tempo. Desta forma, podemos recuperar e
+ter acesso a versões específicas quando quisermos.
+
+O que é GitHub?
+GitHub é um plataforma onde podemos armazenar os arquivos e projetos de
+programação de maneira gratuita. Para utilizar os seus benefícios, basta criar uma
+conta.
